@@ -1,0 +1,37 @@
+.font-awe {
+  font-size: 2em;
+  padding: 5%;
+}
+.font-awe:hover {
+  transition: 0.7s;
+  color: #033253;
+}
+.linke {
+  color: #0091ff;
+}
+.inst {
+  color: #cd683e;
+}
+#head-top {
+  color: rgb(0, 0, 0);
+  font-size: 1.7em;
+}
+.btn-h:hover {
+  background-color: rgb(42, 173, 255);
+}
+span {
+  color: rgb(0, 0, 0);
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+small {
+  font-size: 0.5em;
+}
+.head-color {
+  color: red;
+}
+/* comment section  */
+.nameComment {
+  color: tomato;
+  font-weight: bold;
+}
